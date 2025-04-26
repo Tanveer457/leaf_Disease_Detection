@@ -1,4 +1,4 @@
-# **Digital Image Processing Semester Project**
+# **Leaf Infection Detection and Analysis Using Digital Image Processing**
 This project focuses on detecting and highlighting infected areas on a leaf image. It analyzes the extent of infection and provides a detailed infection report based on image processing techniques.
 
 ## **Key Features**:
